@@ -1,5 +1,5 @@
 1. TP1 - atelier web
 
-- nom: alae bousetta
-- groupe: TI13 groupe 1
+- nom: youssef mgherbie
+- groupe: TI13 groupe 2
 - contenu: exercices git
